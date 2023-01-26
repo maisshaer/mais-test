@@ -1,0 +1,15 @@
+.red-background {
+  background-color: red;
+}
+.green-background {
+  background-color: green;
+}
+
+td {
+  text-align: center;
+}
+
+.send {
+  float: right;
+  margin-top: 20px;
+}
